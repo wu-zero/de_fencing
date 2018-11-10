@@ -1,8 +1,10 @@
 # de_fencing
+
 ###目录
 
 * [一、识别栅栏](###一、识别栅栏)
 * [二、修复](###二、修复)
+
 ###一、识别栅栏
 参考论文：  
  https://www.researchgate.net/publication/296626086_Image_de-fencing_framework_with_hybrid_inpainting_algorithm  
