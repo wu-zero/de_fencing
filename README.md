@@ -2,10 +2,43 @@
 
 ### 目录
 
-* [一、识别栅栏](###一、识别栅栏)
-* [二、修复](###二、修复)
+* [依赖库](### 依赖库)
+* [文件说明](### 文件说明)
+* [运行方法](### 运行方法)
+* [原理](### 原理)
+    * [一、识别栅栏](####一、识别栅栏)
+    * [二、修复](####二、修复)
 
-### 一、识别栅栏
+
+### 依赖库
+
+* opencv
+* numpy
+* scikit-image
+
+###文件说明
+
+* **实现说明.docx**
+  简要说明实现结果和实现过程
+* **picture(file)**
+  原始图片位置
+* **results(file)**
+  运行结果位置
+* **de_fencing(file)**
+  代码文件夹
+    * **Setting.py** 包含一个根据图片原始大小缩放图片的子函数
+    * **GetPoint.py** 从图片中选取栅栏的样本点的程序
+    * **FenceDetcc.py** 利用选取的样本点及邻近的点建立栅栏像素的模型，粗略识别栅栏
+    * **main.py** 给定任意图片执行上述操作后，利用膨胀、开运算、闭运算等操作精确识别栅栏，并修补栅栏区域
+
+### 运行方法
+更改main.py中的图片名，选择不同的图片。
+运行，对于过大的图片会自动缩小，在`choose point`窗口选择栅栏样本像素，选好后按`q`键退出，然后一直按`Enter`键显示中间过程，直到最后显示修补后的图片并保存。
+
+
+### 原理
+整个过程可以分为两步：识别栅栏；修补栅栏区域。
+#### 一、识别栅栏
 参考论文：  
  https://www.researchgate.net/publication/296626086_Image_de-fencing_framework_with_hybrid_inpainting_algorithm  
 
@@ -27,7 +60,7 @@
 pass
 ```
 
-### 二、修复
+#### 二、修复
 用`opencv`自带的修复函数：
 ```python
 def inpaint(src, inpaintMask, inpaintRadius, flags, dst=None):
@@ -40,7 +73,7 @@ def inpaint(src, inpaintMask, inpaintRadius, flags, dst=None):
 第三个参数为dst，该函数的输出结果就放在这里，它和src图像类型是一样的；
 '''
 ```
-修补方法：  
+`opencv`自带修补方法：  
 
 *   **INPAINT_NS** 基于纳维尔－斯托克斯方程的修补方法  
 [参考](https://wenku.baidu.com/view/97679916e87101f69e319536.html)

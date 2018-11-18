@@ -58,7 +58,7 @@ def getPoint(img, points, wind_size):
 
 
 if __name__ == '__main__':
-    img = cv2.imread("data/test1.jpg")
+    img = cv2.imread("..picture/test1.jpg")
     points = get_point_from_img(img)
     print(points)
     R, G, B, points_num, points = getPoint(img, points, wind_size=7)

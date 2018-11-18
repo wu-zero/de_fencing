@@ -22,7 +22,4 @@ def resize(img, ratio=None):
         return img
 
 if __name__ == '__main__':
-    # img = cv2.imread("data/test1.jpg")
-    # img_shrink = resize(img,0.5)
-    # print(img_shrink.shape)
     pass

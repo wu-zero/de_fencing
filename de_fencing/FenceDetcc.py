@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
-from GetPoint import get_point_from_img, getPoint
-from Setting import resize
+from de_fencing.GetPoint import get_point_from_img, getPoint
+
 
 def fenceDetcc(img, R, G, B, points_num, wind_size, treshold):
     img = img.copy()
@@ -64,7 +64,7 @@ def fenceDetcc(img, R, G, B, points_num, wind_size, treshold):
 
 if __name__ == '__main__':
     # 获得要处理的图片
-    img = cv2.imread("data/exp1.jpg")
+    img = cv2.imread("../picture/exp1.jpg")
     #img = resize(img)
     # 获得栅栏样本像素点  获得样本点周围像素点
     points = get_point_from_img(img)

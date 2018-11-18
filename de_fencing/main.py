@@ -1,12 +1,12 @@
 import cv2
 import numpy as np
-import matplotlib.pyplot as plt
-from skimage import measure, color
-from GetPoint import get_point_from_img, getPoint
-from FenceDetcc import fenceDetcc
-from Setting import resize
+from skimage import measure
+from de_fencing.GetPoint import get_point_from_img, getPoint
+from de_fencing.FenceDetcc import fenceDetcc
+from de_fencing.Setting import resize
 
-data_file_path = 'data/'
+
+data_file_path = '../picture/'
 result_file_path = 'results/'
 img_name = 'test003.jpg'
 img_path = data_file_path + img_name
