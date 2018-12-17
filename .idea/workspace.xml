@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/de_fencing/FenceDetcc.py" line="61" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f03b2509-912c-4bea-953a-b201d5c154d0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FenceDetcc.py" beforeDir="false" afterPath="$PROJECT_DIR$/de_fencing/FenceDetcc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GetPoint.py" beforeDir="false" afterPath="$PROJECT_DIR$/de_fencing/GetPoint.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Setting.py" beforeDir="false" afterPath="$PROJECT_DIR$/de_fencing/Setting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/test001.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/test001.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/test002.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/test002.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/test003.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/test003.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/test101.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/test101.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/test102.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/test102.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/test103.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/test103.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/test104.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/test104.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/test105.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/test105.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/test301.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/test301.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/test302.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/test302.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/test303.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/picture/test303.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/de_fencing/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="dbe09adb-edc6-4080-a4e4-d5a9d49762f9" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,177 +9,304 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/de_fencing$demo.coverage" NAME="demo Coverage Results" MODIFIED="1541688830332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/de_fencing$main.coverage" NAME="main Coverage Results" MODIFIED="1541857301808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/de_fencing$fenceDetcc.coverage" NAME="fenceDetcc Coverage Results" MODIFIED="1541570126073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/de_fencing$cc.coverage" NAME="cc Coverage Results" MODIFIED="1541601826814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/de_fencing$GetPoint.coverage" NAME="GetPoint Coverage Results" MODIFIED="1541571771305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/de_fencing$Setting.coverage" NAME="Setting Coverage Results" MODIFIED="1541598433785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/de_fencing$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1542520502514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/de_fencing" />
-    <SUITE FILE_PATH="coverage/de_fencing$FenceDetcc.coverage" NAME="FenceDetcc Coverage Results" MODIFIED="1541597697880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/de_fencing$chuli.coverage" NAME="chuli Coverage Results" MODIFIED="1541687999843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Remove_Fence$KMeans.coverage" NAME="KMeans Coverage Results" MODIFIED="1539152864670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/K_Means_fenge" />
+    <SUITE FILE_PATH="coverage/de_fencing_old$find_ratio.coverage" NAME="find_ratio Coverage Results" MODIFIED="1544869958679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wyw3_zhaozhalanxielv" />
+    <SUITE FILE_PATH="coverage/Remove_Fence$laplacian.coverage" NAME="laplacian Coverage Results" MODIFIED="1539606165172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bianyuanjiance" />
+    <SUITE FILE_PATH="coverage/de_fencing_old$Canny.coverage" NAME="Canny Coverage Results" MODIFIED="1544870584921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/line_feature" />
+    <SUITE FILE_PATH="coverage/Remove_Fence$demo0.coverage" NAME="demo0 Coverage Results" MODIFIED="1539604036555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo1" />
+    <SUITE FILE_PATH="coverage/Remove_Fence$find_ratio.coverage" NAME="find_ratio Coverage Results" MODIFIED="1542036673722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wyw3_zhaozhalanxielv" />
+    <SUITE FILE_PATH="coverage/de_fencing_old$demo__1_.coverage" NAME="demo (1) Coverage Results" MODIFIED="1544715653939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wywz_tuxiangxihua" />
+    <SUITE FILE_PATH="coverage/de_fencing_old$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1544715576315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wywz_xingtaixuezhuanhuan" />
+    <SUITE FILE_PATH="coverage/de_fencing_old$Laplacian.coverage" NAME="Laplacian Coverage Results" MODIFIED="1544870198510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wywz_bianyuanjiance" />
+    <SUITE FILE_PATH="coverage/Remove_Fence$demo3__1_.coverage" NAME="demo3 (1) Coverage Results" MODIFIED="1540120732194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wywz_chaoxiangsufenge" />
+    <SUITE FILE_PATH="coverage/Remove_Fence$demo3.coverage" NAME="demo3 Coverage Results" MODIFIED="1539865624996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chaoxiangsufenge" />
+    <SUITE FILE_PATH="coverage/de_fencing_old$EvaluateResult.coverage" NAME="EvaluateResult Coverage Results" MODIFIED="1545053419217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/de_fencing" />
+    <SUITE FILE_PATH="coverage/de_fencing_old$GetPoint.coverage" NAME="GetPoint Coverage Results" MODIFIED="1544875233458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/de_fencing" />
+    <SUITE FILE_PATH="coverage/de_fencing_old$d1.coverage" NAME="d1 Coverage Results" MODIFIED="1544870810067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ceshi" />
+    <SUITE FILE_PATH="coverage/Remove_Fence$Canny.coverage" NAME="Canny Coverage Results" MODIFIED="1540866444438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wyw1_bianyuanjiance" />
+    <SUITE FILE_PATH="coverage/Remove_Fence$Canny__1_.coverage" NAME="Canny (1) Coverage Results" MODIFIED="1539606885237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_bianyuanjiance" />
+    <SUITE FILE_PATH="coverage/de_fencing_old$find_fence.coverage" NAME="find_fence Coverage Results" MODIFIED="1544799808490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wyw4_zhaozholanfanwei" />
+    <SUITE FILE_PATH="coverage/Remove_Fence$exposure.coverage" NAME="exposure Coverage Results" MODIFIED="1540120597813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Anaconda3/envs/opencv/Lib/site-packages/skimage/exposure" />
+    <SUITE FILE_PATH="coverage/Remove_Fence$demo.coverage" NAME="demo Coverage Results" MODIFIED="1540480035118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wywz_zhifangtufanxiangtouying" />
+    <SUITE FILE_PATH="coverage/de_fencing_old$Setting.coverage" NAME="Setting Coverage Results" MODIFIED="1545045284514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/de_fencing" />
+    <SUITE FILE_PATH="coverage/Remove_Fence$demo1__1_.coverage" NAME="demo1 (1) Coverage Results" MODIFIED="1540119930335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wyw4_zhaozholanfanwei" />
+    <SUITE FILE_PATH="coverage/Remove_Fence$zhixianjaince2_p.coverage" NAME="zhixianjaince2_p Coverage Results" MODIFIED="1539769747591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_zhixian_jiance" />
+    <SUITE FILE_PATH="coverage/de_fencing_old$test.coverage" NAME="test Coverage Results" MODIFIED="1545023402795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/de_fencing" />
+    <SUITE FILE_PATH="coverage/Remove_Fence$demo__1_.coverage" NAME="demo (1) Coverage Results" MODIFIED="1540047814642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Remove_Fence$hebing.coverage" NAME="hebing Coverage Results" MODIFIED="1539774359829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_zhixian_hebing" />
+    <SUITE FILE_PATH="coverage/Remove_Fence$HoughLinesP.coverage" NAME="HoughLinesP Coverage Results" MODIFIED="1540046476571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wyw2_zhixianjiance" />
+    <SUITE FILE_PATH="coverage/Remove_Fence$Laplacian.coverage" NAME="Laplacian Coverage Results" MODIFIED="1539764864343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_bianyuanjiance" />
+    <SUITE FILE_PATH="coverage/de_fencing_old$FindMaskThroughLine.coverage" NAME="FindMaskThroughLine Coverage Results" MODIFIED="1545045292145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/line_feature" />
+    <SUITE FILE_PATH="coverage/Remove_Fence$Soble__1_.coverage" NAME="Soble (1) Coverage Results" MODIFIED="1539606868655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_bianyuanjiance" />
+    <SUITE FILE_PATH="coverage/Remove_Fence$zhixianjiance.coverage" NAME="zhixianjiance Coverage Results" MODIFIED="1539764981865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_zhixian_jiance" />
+    <SUITE FILE_PATH="coverage/Remove_Fence$main.coverage" NAME="main Coverage Results" MODIFIED="1539153124455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/K_Means_fenge" />
+    <SUITE FILE_PATH="coverage/de_fencing_old$chaoxiangsufenge.coverage" NAME="chaoxiangsufenge Coverage Results" MODIFIED="1544798789231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wywz_chaoxiangsufenge" />
+    <SUITE FILE_PATH="coverage/de_fencing_old$HoughLinesP.coverage" NAME="HoughLinesP Coverage Results" MODIFIED="1545040922587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/line_feature" />
+    <SUITE FILE_PATH="coverage/Remove_Fence$zhixianjiance2.coverage" NAME="zhixianjiance2 Coverage Results" MODIFIED="1539764991506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_zhixian_jiance" />
+    <SUITE FILE_PATH="coverage/Remove_Fence$KMeanspp.coverage" NAME="KMeanspp Coverage Results" MODIFIED="1539151314997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/K_Means_fenge" />
+    <SUITE FILE_PATH="coverage/de_fencing_old$demo.coverage" NAME="demo Coverage Results" MODIFIED="1544715590304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wywz_zhifangtufanxiangtouying" />
+    <SUITE FILE_PATH="coverage/Remove_Fence$1.coverage" NAME="1 Coverage Results" MODIFIED="1539770304731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Remove_Fence$demo1__2_.coverage" NAME="demo1 (2) Coverage Results" MODIFIED="1539788146161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xingtaixuezhuanhuan" />
+    <SUITE FILE_PATH="coverage/Remove_Fence$draw.coverage" NAME="draw Coverage Results" MODIFIED="1539152953323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/K_Means_fenge" />
+    <SUITE FILE_PATH="coverage/Remove_Fence$demo2__1_.coverage" NAME="demo2 (1) Coverage Results" MODIFIED="1539407817927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chaoxiangsufenge" />
+    <SUITE FILE_PATH="coverage/de_fencing_old$main.coverage" NAME="main Coverage Results" MODIFIED="1544872655650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/de_fencing" />
+    <SUITE FILE_PATH="coverage/de_fencing_old$FenceDetcc.coverage" NAME="FenceDetcc Coverage Results" MODIFIED="1544875337158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/de_fencing" />
+    <SUITE FILE_PATH="coverage/de_fencing_old$main1.coverage" NAME="main1 Coverage Results" MODIFIED="1545050870932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/de_fencing" />
+    <SUITE FILE_PATH="coverage/de_fencing_old$FindMask.coverage" NAME="FindMask Coverage Results" MODIFIED="1544886969746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/line_feature" />
+    <SUITE FILE_PATH="coverage/Remove_Fence$bianyuanjiance.coverage" NAME="bianyuanjiance Coverage Results" MODIFIED="1539605894185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lunkuo_fenge" />
+    <SUITE FILE_PATH="coverage/Remove_Fence$xuanzhuan.coverage" NAME="xuanzhuan Coverage Results" MODIFIED="1541902122925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wyw3_zhaozhalanxielv" />
+    <SUITE FILE_PATH="coverage/de_fencing_old$FindMask__1_.coverage" NAME="FindMask (1) Coverage Results" MODIFIED="1544887018449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/de_fencing" />
+    <SUITE FILE_PATH="coverage/Remove_Fence$d1.coverage" NAME="d1 Coverage Results" MODIFIED="1540479915448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Remove_Fence$find_fence.coverage" NAME="find_fence Coverage Results" MODIFIED="1540824219470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wyw4_zhaozholanfanwei" />
+    <SUITE FILE_PATH="coverage/Remove_Fence$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1539774530263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/K_Means_fenge2" />
+    <SUITE FILE_PATH="coverage/de_fencing_old$demo2.coverage" NAME="demo2 Coverage Results" MODIFIED="1544715585033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wywz_xingtaixuezhuanhuan" />
+    <SUITE FILE_PATH="coverage/de_fencing_old$s.coverage" NAME="s Coverage Results" MODIFIED="1544874536091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/line_feature" />
+    <SUITE FILE_PATH="coverage/de_fencing_old$main2__1_.coverage" NAME="main2 (1) Coverage Results" MODIFIED="1545055282094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/de_fencing" />
+    <SUITE FILE_PATH="coverage/Remove_Fence$Soble.coverage" NAME="Soble Coverage Results" MODIFIED="1539764919180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_bianyuanjiance" />
+    <SUITE FILE_PATH="coverage/de_fencing_old$main1__1_.coverage" NAME="main1 (1) Coverage Results" MODIFIED="1545040579671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/de_fencing" />
+    <SUITE FILE_PATH="coverage/Remove_Fence$d1__1_.coverage" NAME="d1 (1) Coverage Results" MODIFIED="1540480973045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ceshi" />
+    <SUITE FILE_PATH="coverage/de_fencing_old$d.coverage" NAME="d Coverage Results" MODIFIED="1545042121995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/line_feature" />
+    <SUITE FILE_PATH="coverage/de_fencing_old$main2.coverage" NAME="main2 Coverage Results" MODIFIED="1545026480022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/de_fencing" />
+    <SUITE FILE_PATH="coverage/Remove_Fence$demo2.coverage" NAME="demo2 Coverage Results" MODIFIED="1539788334161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xingtaixuezhuanhuan" />
+    <SUITE FILE_PATH="coverage/de_fencing_old$demo3.coverage" NAME="demo3 Coverage Results" MODIFIED="1544769900981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wywz_chaoxiangsufenge" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="1516429174">
+    <session id="1471556358">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.18" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.24" value="1" />
-          <entry key="project.opened" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="7" />
-          <entry key="py" value="5767" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="5767" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.js.language.service.starts" />
-      <usages-collector id="statistics.vcs.git.usages" />
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Image" value="47" />
-          <entry key="Python" value="24" />
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="jpg" value="47" />
-          <entry key="py" value="24" />
+          <entry key="jpg" value="17" />
+          <entry key="png" value="2" />
+          <entry key="py" value="25" />
+          <entry key="sub_pp" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="19" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="25" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="1500" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="1500" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+    <session id="937887194">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="jpg" value="39" />
+          <entry key="png" value="10" />
+          <entry key="py" value="82" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="49" />
+          <entry key="Python" value="82" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="40" />
+          <entry key="py" value="10766" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="40" />
+          <entry key="Python" value="10766" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+    <session id="-1898004644">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
     </session>
-    <session id="-1104377630">
+    <session id="347560077">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.32" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="gitattributes" value="1" />
-          <entry key="md" value="1" />
-          <entry key="py" value="3" />
+          <entry key="jpg" value="37" />
+          <entry key="png" value="11" />
+          <entry key="py" value="80" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="1" />
+          <entry key="Image" value="48" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="3" />
+          <entry key="Python" value="80" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="9" />
+          <entry key="dummy" value="83" />
+          <entry key="py" value="7081" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="9" />
+          <entry key="PLAIN_TEXT" value="83" />
+          <entry key="Python" value="7081" />
         </counts>
       </usages-collector>
-      <usages-collector id="statistics.js.language.service.starts" />
-      <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/de_fencing/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="56" column="19" lean-forward="true" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="19" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/de_fencing/FenceDetcc.py">
+        <entry file="file://$PROJECT_DIR$/de_fencing/EvaluateResult.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="65" column="14" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="14" />
+            <state relative-caret-position="200">
+              <caret line="38" column="38" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
-                <element signature="e#160#1672#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitattributes">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/color_feature/FenceDetcc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="662">
+              <caret line="172" selection-start-line="172" selection-end-line="172" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/de_fencing/GetPoint.py">
+        <entry file="file://$PROJECT_DIR$/line_feature/FindMaskThroughLine.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="60" column="24" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="24" />
+            <state relative-caret-position="187">
+              <caret line="165" column="10" selection-start-line="165" selection-start-column="10" selection-end-line="165" selection-end-column="10" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
-                <element signature="e#161#225#0" />
-                <element signature="e#274#892#0" />
-                <element signature="e#937#1662#0" />
-                <marker date="1542351930170" expanded="true" signature="937:961" ph="..." />
+                <marker date="1545045171512" expanded="true" signature="4644:5204" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/picture/test103.jpg">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/color_feature/FindMaskThroughColor.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="63" column="24" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+                <marker date="1545045646056" expanded="true" signature="354:2224" ph="..." />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/picture/test104.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/picture/test105.jpg">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/color_feature/GetPoint.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/de_fencing/Setting.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+            <state relative-caret-position="88">
+              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
               <folding>
-                <element signature="e#55#585#0" />
+                <element signature="e#0#10#0" expanded="true" />
+                <marker date="1545050630254" expanded="true" signature="152:2130" ph="..." />
+                <marker date="1545050630254" expanded="true" signature="851:1398" ph="..." />
+                <marker date="1545050630254" expanded="true" signature="1306:1398" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/de_fencing/main2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/results/test101.jpg">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/line_feature/HoughLinesP.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/de_fencing/Parameter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/de_fencing/main1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -214,27 +320,66 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>mask</find>
+      <find>print</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/fenceDetcc.py" />
-        <option value="$PROJECT_DIR$/GetPoint.py" />
-        <option value="$PROJECT_DIR$/FenceDetcc.py" />
-        <option value="$PROJECT_DIR$/cc.py" />
-        <option value="$PROJECT_DIR$/chuli.py" />
+        <option value="$PROJECT_DIR$/2_zhixian_jiance/zhixianjiance.py" />
+        <option value="$PROJECT_DIR$/xingtaixuezhuanhuan/demo1.py" />
+        <option value="$PROJECT_DIR$/K_Means_fenge2/demo1.py" />
+        <option value="$PROJECT_DIR$/1_bianyuanjiance/Laplacian.py" />
+        <option value="$PROJECT_DIR$/2_zhixian_jiance/zhixianjiance2.py" />
+        <option value="$PROJECT_DIR$/1_bianyuanjiance/Canny.py" />
+        <option value="$PROJECT_DIR$/1_bianyuanjiance/Soble.py" />
+        <option value="$PROJECT_DIR$/2_zhixian_jiance/zhixianjaince2_p.py" />
+        <option value="$PROJECT_DIR$/2_zhixian_jiance/HoughLinesP.py" />
+        <option value="$PROJECT_DIR$/1.py" />
+        <option value="$PROJECT_DIR$/3_zhixian_hebing/hebing.py" />
+        <option value="$PROJECT_DIR$/4_zhaozholanfanwei/demo1.py" />
+        <option value="$PROJECT_DIR$/wyw3_zhaozhixanxielv/hebing.py" />
+        <option value="$PROJECT_DIR$/xingtaixuezhuanhuan/demo2.py" />
+        <option value="$PROJECT_DIR$/zhifangtufanxiangtouying/demo.py" />
+        <option value="$PROJECT_DIR$/wyw4_zhaozholanfanwei/demo1.py" />
+        <option value="$PROJECT_DIR$/chaoxiangsufenge/demo3.py" />
+        <option value="$PROJECT_DIR$/wyw4_zhaozholanfanwei/find_fence.py" />
         <option value="$PROJECT_DIR$/demo.py" />
-        <option value="$PROJECT_DIR$/Setting.py" />
-        <option value="$PROJECT_DIR$/main.py" />
-        <option value="$PROJECT_DIR$/de_fencing/Setting.py" />
-        <option value="$PROJECT_DIR$/de_fencing/GetPoint.py" />
+        <option value="$PROJECT_DIR$/d1.py" />
+        <option value="$PROJECT_DIR$/ceshi/d1.py" />
+        <option value="$PROJECT_DIR$/xuanzhuan.py" />
+        <option value="$PROJECT_DIR$/wyw1_bianyuanjiance/Canny.py" />
+        <option value="$PROJECT_DIR$/wywz_tuxiangxihua/demo.py" />
+        <option value="$PROJECT_DIR$/wywz_zhifangtufanxiangtouying/demo.py" />
+        <option value="$PROJECT_DIR$/wywz_chaoxiangsufenge/demo3.py" />
+        <option value="$PROJECT_DIR$/wyw3_zhaozhalanxielv/s.py" />
+        <option value="$PROJECT_DIR$/wyw2_zhixianjiance/HoughLinesP.py" />
+        <option value="$PROJECT_DIR$/wyw3_zhaozhalanxielv/xuanzhuan.py" />
+        <option value="$PROJECT_DIR$/wyw3_zhaozhalanxielv/HoughLinesP.py" />
+        <option value="$PROJECT_DIR$/wyw3_zhaozhalanxielv/find_ratio.py" />
+        <option value="$PROJECT_DIR$/line_feature/Canny.py" />
+        <option value="$PROJECT_DIR$/wywz_chaoxiangsufenge/chaoxiangsufenge.py" />
         <option value="$PROJECT_DIR$/de_fencing/main.py" />
+        <option value="$PROJECT_DIR$/line_feature/s.py" />
+        <option value="$PROJECT_DIR$/de_fencing/GetPoint.py" />
+        <option value="$PROJECT_DIR$/line_feature/HoughLinesP.py" />
+        <option value="$PROJECT_DIR$/line_feature/FindMask.py" />
+        <option value="$PROJECT_DIR$/de_fencing/FindMask.py" />
         <option value="$PROJECT_DIR$/de_fencing/FenceDetcc.py" />
+        <option value="$PROJECT_DIR$/de_fencing/test.py" />
+        <option value="$PROJECT_DIR$/de_fencing/FindMaskThroughColor.py" />
+        <option value="$PROJECT_DIR$/de_fencing/main1.py" />
+        <option value="$PROJECT_DIR$/in_paint/main1.py" />
+        <option value="$PROJECT_DIR$/line_feature/d.py" />
+        <option value="$PROJECT_DIR$/line_feature/FindMaskThroughLine.py" />
+        <option value="$PROJECT_DIR$/de_fencing/Parameter.py" />
+        <option value="$PROJECT_DIR$/color_feature/FindMaskThroughColor.py" />
+        <option value="$PROJECT_DIR$/de_fencing/main2.py" />
+        <option value="$PROJECT_DIR$/de_fencing/Setting.py" />
+        <option value="$PROJECT_DIR$/de_fencing/EvaluateResult.py" />
       </list>
     </option>
   </component>
@@ -245,11 +390,12 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="300" />
-    <option name="y" value="157" />
-    <option name="width" value="1442" />
-    <option name="height" value="702" />
+    <option name="x" value="291" />
+    <option name="y" value="327" />
+    <option name="width" value="1182" />
+    <option name="height" value="950" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -260,22 +406,28 @@
         <subPane>
           <expand>
             <path>
-              <item name="de_fencing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="de_fencing_old" type="b2602c69:ProjectViewProjectNode" />
+              <item name="de_fencing_old" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="de_fencing_old" type="b2602c69:ProjectViewProjectNode" />
+              <item name="de_fencing_old" type="462c0819:PsiDirectoryNode" />
+              <item name="color_feature" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="de_fencing_old" type="b2602c69:ProjectViewProjectNode" />
+              <item name="de_fencing_old" type="462c0819:PsiDirectoryNode" />
               <item name="de_fencing" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="de_fencing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="de_fencing" type="462c0819:PsiDirectoryNode" />
-              <item name="de_fencing" type="462c0819:PsiDirectoryNode" />
+              <item name="de_fencing_old" type="b2602c69:ProjectViewProjectNode" />
+              <item name="de_fencing_old" type="462c0819:PsiDirectoryNode" />
+              <item name="line_feature" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="de_fencing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="de_fencing" type="462c0819:PsiDirectoryNode" />
-              <item name="picture" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="de_fencing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="de_fencing_old" type="b2602c69:ProjectViewProjectNode" />
+              <item name="de_fencing_old" type="462c0819:PsiDirectoryNode" />
+              <item name="result" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -285,13 +437,32 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/de_fencing_old" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../generative_inpainting-master" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Remove_Fence" is-module-sdk="true" working-directory="$PROJECT_DIR$">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Remove_Fence" />
+        <option name="myWorkingDirectory" value="$PROJECT_DIR$" />
+      </console-settings>
+    </option>
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\wyw\Documents\GitHub\de_fencing\de_fencing" />
-      <recent name="C:\Users\wyw\PycharmProjects\de_fencing" />
+      <recent name="C:\Users\wyw\Documents\GitHub\de_fencing_old\de_fencing" />
+      <recent name="C:\Users\wyw\Documents\GitHub\de_fencing_old\color_feature" />
+      <recent name="C:\Users\wyw\Documents\GitHub\de_fencing_old\in_paint" />
+      <recent name="C:\Users\wyw\Documents\GitHub\de_fencing_old\test" />
+      <recent name="C:\Users\wyw\Documents\GitHub\de_fencing_old" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wyw\Documents\GitHub\de_fencing_old\test" />
+      <recent name="C:\Users\wyw\Documents\GitHub\de_fencing_old\de_fencing" />
+      <recent name="$PROJECT_DIR$/xingtaixuezhuanhuan" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -306,75 +477,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
-    <configuration name="cc" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="de_fencing" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cc.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="chuli" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="de_fencing" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\wyw\PycharmProjects\de_fencing\main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="de_fencing" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="de_fencing" />
+  <component name="RunManager" selected="Python.main2 (1)">
+    <configuration name="EvaluateResult" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Remove_Fence" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -386,7 +491,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/de_fencing/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/de_fencing/EvaluateResult.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -395,20 +500,86 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="de_fencing" />
+    <configuration name="FindMaskThroughLine" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Remove_Fence" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/line_feature" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\wyw\Documents\GitHub\de_fencing\de_fencing\main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/line_feature/FindMaskThroughLine.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Setting" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Remove_Fence" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/de_fencing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/de_fencing/Setting.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Remove_Fence" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/de_fencing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/de_fencing/main1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Remove_Fence" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/de_fencing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/de_fencing/main2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -418,19 +589,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.chuli" />
-      <item itemvalue="Python.cc" />
-      <item itemvalue="Python.main" />
-      <item itemvalue="Python.demo" />
-      <item itemvalue="Python.main (1)" />
+      <item itemvalue="Python.EvaluateResult" />
+      <item itemvalue="Python.main2 (1)" />
+      <item itemvalue="Python.FindMaskThroughLine" />
+      <item itemvalue="Python.Setting" />
+      <item itemvalue="Python.main1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.demo" />
-        <item itemvalue="Python.chuli" />
-        <item itemvalue="Python.cc" />
+        <item itemvalue="Python.main2 (1)" />
+        <item itemvalue="Python.EvaluateResult" />
+        <item itemvalue="Python.main1" />
+        <item itemvalue="Python.FindMaskThroughLine" />
+        <item itemvalue="Python.Setting" />
       </list>
     </recent_temporary>
   </component>
@@ -439,38 +610,47 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f03b2509-912c-4bea-953a-b201d5c154d0" name="Default Changelist" comment="" />
-      <created>1541501252069</created>
+      <changelist id="dbe09adb-edc6-4080-a4e4-d5a9d49762f9" name="Default Changelist" comment="" />
+      <created>1539150997240</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1541501252069</updated>
+      <updated>1539150997240</updated>
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="300" y="157" width="1442" height="702" extended-state="1" />
+    <frame x="291" y="327" width="1182" height="950" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27062228" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2798574" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.329806" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28395063" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946696" weight="0.19109663" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8001066" weight="0.640608" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49840087" weight="0.3984799" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32943925" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32943925" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.19989339" side_tool="true" visible="true" weight="0.72392637" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32943925" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32943925" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" x="565" y="214" width="1043" height="749" id="SciView" order="3" weight="0.13719885" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
@@ -481,157 +661,276 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/215451766/builtins.py">
+    <entry file="file://$PROJECT_DIR$/wyw3_zhaozhalanxielv/img_cu_3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wywz_bianyuanjiance/Soble.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="4161" column="12" lean-forward="true" selection-start-line="4161" selection-start-column="12" selection-end-line="4161" selection-end-column="12" />
+        <state relative-caret-position="550">
+          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/envs/de_fencing/Lib/site-packages/skimage/color/colorconv.py">
+    <entry file="file://$PROJECT_DIR$/wywz_bianyuanjiance/Laplacian.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="1082" selection-start-line="1082" selection-end-line="1082" />
+        <state relative-caret-position="396">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/envs/de_fencing/Lib/site-packages/matplotlib/pyplot.py">
+    <entry file="file://$PROJECT_DIR$/line_feature/1_Canny.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/215451766/cv2/cv2/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="2689" column="4" selection-start-line="2689" selection-start-column="4" selection-end-line="2689" selection-end-column="4" />
+        <state relative-caret-position="426">
+          <caret line="3062" column="54" lean-forward="true" selection-start-line="3062" selection-start-column="54" selection-end-line="3062" selection-end-column="54" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/test1.jpg" />
-    <entry file="file://$PROJECT_DIR$/data/test2.jpg" />
-    <entry file="file://$PROJECT_DIR$/data/test3.jpg" />
-    <entry file="file://$PROJECT_DIR$/data/exp122.jpg" />
-    <entry file="file://$PROJECT_DIR$/data/2017_Test_00001.jpg" />
-    <entry file="file://$PROJECT_DIR$/data/exp1.jpg" />
-    <entry file="file://$PROJECT_DIR$/data/exp123.jpg" />
-    <entry file="file://$PROJECT_DIR$/data/exp200.jpg" />
-    <entry file="file://$PROJECT_DIR$/data/exp303.jpg" />
-    <entry file="file://$PROJECT_DIR$/cc.py" />
-    <entry file="file://$PROJECT_DIR$/demo.py" />
+    <entry file="file://$PROJECT_DIR$/ceshi/1_1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ceshi/d1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wywz_chaoxiangsufenge/chaoxiangsufenge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+            <element signature="e#251#559#0" />
+            <element signature="e#597#1032#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wywz_xingtaixuezhuanhuan/demo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wywz_xingtaixuezhuanhuan/demo2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wywz_xingtaixuezhuanhuan/zhalan.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wywz_tuxiangxihua/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="54" column="58" selection-start-line="54" selection-start-column="58" selection-end-line="54" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/line_feature/s.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/dog.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/a.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/de_fencing/1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/own_mask.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/bear.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/a.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/dog/own_mask.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/monkey_mask.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/monkey/own_mask.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/person.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/person_mask.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/person/own_mask.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/bear_mask.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/person/original.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/monkey/original.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/picture/test001.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/picture/test002.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../generative_inpainting-master/examples/results/2test002.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../generative_inpainting-master/examples/results/1test002.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test Images/exp123.jpg" />
-    <entry file="file://$PROJECT_DIR$/Test Images/exp200.jpg" />
-    <entry file="file://$PROJECT_DIR$/Test Images/exp1.jpg" />
-    <entry file="file://$PROJECT_DIR$/Test Images/exp14.jpg" />
-    <entry file="file://$PROJECT_DIR$/Test Images/exp122.jpg" />
-    <entry file="file://$PROJECT_DIR$/picture/test302.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/picture/test303.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/215451766/cv2/cv2/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="7361" column="102" selection-start-line="7361" selection-start-column="102" selection-end-line="7361" selection-end-column="102" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/picture/test301.jpg">
+    <entry file="file://$PROJECT_DIR$/picture/test003.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/picture/test101.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/results/test003.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/test001.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/envs/de_fencing/Lib/site-packages/skimage/measure/_label.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="814">
-          <caret line="37" column="8" selection-start-line="36" selection-start-column="7" selection-end-line="39" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/picture/test102.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/de_fencing/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="56" column="19" lean-forward="true" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/de_fencing/FenceDetcc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="65" column="14" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-            <element signature="e#160#1672#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitattributes">
+    <entry file="file://$PROJECT_DIR$/color_feature/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/result/bear/own_mask.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/bear/data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" selection-start-column="28" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/de_fencing/GetPoint.py">
+    <entry file="file://$PROJECT_DIR$/result/flower/original.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/flower/standard_mask.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/flower/own_mask.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/line_feature/Canny.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/line_feature/d.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="60" column="24" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="24" />
+        <state relative-caret-position="44">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/dog/inpainting_with_own_mask.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/line_feature/HoughLinesP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
-            <element signature="e#161#225#0" />
-            <element signature="e#274#892#0" />
-            <element signature="e#937#1662#0" />
-            <marker date="1542351930170" expanded="true" signature="937:961" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/picture/test103.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/line_feature/FindMaskThroughLine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="165" column="10" selection-start-line="165" selection-start-column="10" selection-end-line="165" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <marker date="1545045171512" expanded="true" signature="4644:5204" ph="..." />
+          </folding>
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/picture/test104.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/de_fencing/Parameter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/picture/test105.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/color_feature/FenceDetcc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="662">
+          <caret line="172" selection-start-line="172" selection-end-line="172" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/de_fencing/Setting.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        <state relative-caret-position="88">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
           <folding>
-            <element signature="e#55#585#0" />
+            <element signature="e#0#10#0" expanded="true" />
+            <marker date="1545050630254" expanded="true" signature="152:2130" ph="..." />
+            <marker date="1545050630254" expanded="true" signature="851:1398" ph="..." />
+            <marker date="1545050630254" expanded="true" signature="1306:1398" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/results/test101.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/color_feature/GetPoint.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color_feature/FindMaskThroughColor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="63" column="24" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <marker date="1545045646056" expanded="true" signature="354:2224" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/de_fencing/EvaluateResult.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="38" column="38" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/de_fencing/main1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/de_fencing/main2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
