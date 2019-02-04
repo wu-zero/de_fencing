@@ -8,7 +8,7 @@
 * [原理](###原理)
     * [一、识别栅栏](####一、识别栅栏)
     * [二、修复](####二、修复)
-
+* [测试报告](###测试报告)
 
 ### 依赖库
 
@@ -47,5 +47,12 @@
 ### 原理
 具体见小论文
 
+### 测试报告
+![图片1](https://github.com/wu-zero/de_fencing/blob/master/%E6%B5%8B%E8%AF%95%E6%8A%A5%E5%91%8A/%E6%B5%8B%E8%AF%95%E6%8A%A5%E5%91%8Aforshow-1.jpg)
+![图片2](https://github.com/wu-zero/de_fencing/blob/master/%E6%B5%8B%E8%AF%95%E6%8A%A5%E5%91%8A/%E6%B5%8B%E8%AF%95%E6%8A%A5%E5%91%8Aforshow-2.jpg)
+![图片3](https://github.com/wu-zero/de_fencing/blob/master/%E6%B5%8B%E8%AF%95%E6%8A%A5%E5%91%8A/%E6%B5%8B%E8%AF%95%E6%8A%A5%E5%91%8Aforshow-3.jpg)
+![图片4](https://github.com/wu-zero/de_fencing/blob/master/%E6%B5%8B%E8%AF%95%E6%8A%A5%E5%91%8A/%E6%B5%8B%E8%AF%95%E6%8A%A5%E5%91%8Aforshow-4.jpg)
+![图片5](https://github.com/wu-zero/de_fencing/blob/master/%E6%B5%8B%E8%AF%95%E6%8A%A5%E5%91%8A/%E6%B5%8B%E8%AF%95%E6%8A%A5%E5%91%8Aforshow-5.jpg)
+![图片6](https://github.com/wu-zero/de_fencing/blob/master/%E6%B5%8B%E8%AF%95%E6%8A%A5%E5%91%8A/%E6%B5%8B%E8%AF%95%E6%8A%A5%E5%91%8Aforshow-6.jpg)
 
 
