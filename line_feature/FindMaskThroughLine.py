@@ -98,7 +98,7 @@ def find_fence_angle(lines):
         flag = False
 
     print('========================')
-    print('直线斜率      包含的直线个数')
+    print('直线角度      包含的直线个数')
 
     for ratio in ratio_list:
         print("%10f  %10d" % (ratio.data, ratio.num))

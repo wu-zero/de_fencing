@@ -20,21 +20,32 @@
 ### 文件说明
 * 实现说明.docx
     简要说明实现过程
-* picture(file)
-    原始图片位置
-* 其他(file)
-    代码文件，其中wyw1_ ~ wyw4_ 为现在的使用代码，wywz_为正在测试的代码，以后可能会用于使用。具体说明如下：
-    * wyw1_bianyuanjiance 
-        三种边缘检测的方法，最后选用Canny边缘检测 
-    * wyw2_zhixianjiance
-        Hough直线检测
-    * wyw3_zhaozhixianxielv
-        用统计学的方法找栅栏的边缘直线斜率
-    * wyw4_zhaozhalanfanwei
-        粗略找到栅栏范围
-    * wywz_ 
-        超像素分割、图像细化等，不做介绍。
-#### 运行方法
-运行文件夹`wyw4_zhaozhalanfanwei`中的`find_fence.py`文件可以直接运行，利用栅栏的直线特性粗略识别栅栏，可以通过更改程序中的图片位置来测试不同的图片。
+* color_feature(file)
+    通过栅栏颜色特征找栅栏范围
+* line_feature(file)
+    通过栅栏边界的直线特征找栅栏范围
+* de_fencing(file)
+    * Parameter.py 
+        设定参数
+    * Setting.py
+        修改输入图片位置、输出图片位置等
+    * main1.py
+        利用颜色特征检测栅栏
+    * main2.py
+        利用直线特征和颜色特征检测栅栏
+    * EvaluateResult.py
+        评估检测效果并进行修补
+* test(file)
+    原始图片和标准栅栏掩膜图片呢位置
+* result(file)
+    检测结果、修复结果存储位置
+
+### 运行方法
+运行文件夹`de_fencing`中的`main1.py`和`main2.py`可以直接运行，检测栅栏区域，可以通过更改`Setting.py`程序中的图片位置来测试不同的图片。  
+`EvaluateResult.py`可以直接运行，用于评估检测效果并进行图像修补
+
+#### 原理
+具体见小论文
+
 
 
